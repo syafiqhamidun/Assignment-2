@@ -1,0 +1,194 @@
+*{
+    background: #1E1F2F;
+    height: 936px;
+    width: 1611px;
+    left: 130px;
+}
+
+.whitebox-1{
+    position: absolute;
+    width: 31.06px;
+    height: 27.42px;
+    background-color: white;
+    top: 125px;
+}
+.redbox-1{
+    position: absolute;
+    width: 60.47px;
+    height: 68.55px;
+    background: red;
+    left: 161.07px;
+    top: 152.45px;
+}
+.rbox{
+    position: absolute;
+    width: 28.31px;
+    height: 33.37px;
+    top: 160.04px;
+    left:177.81px;
+    color: #FFFFFF;
+    background-color: red;
+    font-size: 40px;
+}
+.warmups{
+    position: absolute;
+    width: 331px;
+    height: 96px;
+    top: 29px;
+    left: 261.54px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 96px;
+    line-height: 128%;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: 400;
+}
+
+.midbody{
+    display: flex;
+}
+.lorem{
+    position: absolute;
+    width: 800px;
+    height: 400px;
+    top: 145px;
+    left: 130px;
+    line-height: 93.6%;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+    font-size: 156px;
+    display: flex;
+    align-items: center;
+    color: white;
+    background: transparent;
+}
+.user{
+    position: absolute;
+    width: 43.94px;
+    height: 34px;
+    top: 796px;
+    bottom: 106px;
+    fill: solid;
+    background-color: red;   
+}
+.max{
+    position: absolute;
+    width: 196px;
+    height: 48px;
+    top: 730px;
+    bottom: 106px;
+    left: 198px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+    font-size: 64px;
+    color: white;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.clock{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 796px;
+    bottom: 106px;
+    left: 484px;
+    fill: solid;
+
+    /* filter: invert(31%) sepia(33%) saturate(4794%) hue-rotate(330deg) brightness(90%) contrast(102%); */
+}
+
+.min{
+    position: absolute;
+    width: 196px;
+    height: 48px;
+    top: 730px;
+    bottom: 106px;
+    left: 550px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+    font-size: 64px;
+    color: white;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    background: transparent;
+}
+.box-1{
+    position: absolute;
+    background: transparent;
+    box-sizing: border-box;
+    width: 558px;
+    height: 644px;
+    top: 326px;
+    left: 691px;
+    box-sizing: border-box;
+    border: 60px solid #2D2F48 ;
+}
+.box-2{
+    position: absolute;
+    box-sizing: border-box;
+    background: transparent;
+    width: 558px;
+    height: 644px;
+    top: -238px;
+    left: 1169px;
+    border: 60px solid #48596D;
+}
+.box-3{
+    position: absolute;
+    box-sizing: border-box;
+    background: transparent;
+    width: 504px;
+    height: 618px;
+    top: 146px;
+    left: 957px;
+    border: 60px solid #FFFFFF;
+}
+.box-4{
+    position: absolute;
+    box-sizing: border-box;
+    background: transparent;
+    width: 240px;
+    height: 240px;
+    top: 245px;
+    left: 1089px;
+    border: 40px solid #E82C4F;
+}
+.box-5{
+    position: absolute;
+    box-sizing: border-box;
+    background: transparent;
+    width: 80px;
+    height: 80px;
+    top: 325px;
+    left: 1169px;
+    border: 20px solid #FFFFFF;
+}
+.box-6{
+    position: absolute;
+    box-sizing: border-box;
+    background: transparent;
+    width: 80px;
+    height: 80px;
+    top: 585px;
+    left: 1089px;
+    border: 20px solid #3256A1;
+}
+.box-7{
+    position: absolute;
+    box-sizing: border-box;
+    background: transparent;
+    width: 80px;
+    height: 80px;
+    top: 585px;
+    left: 1249px;
+    border: 20px solid #FFFFFF;
+    border-radius: 50%;
+}
